@@ -1,6 +1,6 @@
 # Deploy Buttons
 
-[Copy code](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/readme.md) (change the github link to your repository)
+[Copy code](https://github.com/Vethavetha/deploy-buttons) (change the github link to your repository)
 
 ## Remade (by me)
 
